@@ -22,8 +22,8 @@ It uses the **OpenWeather API** to provide real-time weather updates in a clean,
 ## 🏗️ Tech Stack
 
 **Frontend**
-- HTML5  
-- CSS3  
+- HTML5
+- CSS3 
 - Bootstrap 5  
 
 **Backend**
